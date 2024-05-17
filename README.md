@@ -1,3 +1,3 @@
-"" ola o meu nome é Thiago Vivêncio.
+"" Olá o meu nome é Thiago Vivêncio.
 
--eu eutudo na escola Lopes Rodrigues e estou no 1 ano do ensino medio da sala b
+-Estudo na escola Lopes Rodrigues e estou no 1 ano Bº do ensino medio
